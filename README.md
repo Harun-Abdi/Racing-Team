@@ -3,11 +3,8 @@
 
 # Setup - Laravel + Composer
 
-1. zz
-2. sfds
-3. sdf
-4. sdf
-5. sdf
+1. Go to https://laravel.com/docs/9.x/installation
+
 
 
 # HTML Files
