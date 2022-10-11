@@ -9,16 +9,21 @@
 
 
 <body>
+    <div id="Page-name">
+        <h1 >Main Dashboard</h1>
+        <button> Racing mode</button>
 
-<h1 id="Page-name">Main Dashboard</h1>
+    </div>
+
+
 
     <div class="wow" >
         <ul>
-            <li>Main</li>
-            <li>Cooling</li>
-            <li>Battery Cell</li>
-            <li>Inverters  </li>
-            <li>Shutdown Circuit </li>
+            <li> <a href="/">Main</a> </li>
+            <li> <a href="url">Cooling</a> </li>
+            <li> <a href="url">Inverters</a> </li>
+            <li> <a href="url">Shutdown</a> </li>
+            <li> <a href="url">Circuit</a> </li>
         </ul>
 
 
